@@ -1,0 +1,16 @@
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\bin\Debug\net5.0\whileExample.exe
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\bin\Debug\net5.0\whileExample.deps.json
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\bin\Debug\net5.0\whileExample.runtimeconfig.json
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\bin\Debug\net5.0\whileExample.runtimeconfig.dev.json
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\bin\Debug\net5.0\whileExample.dll
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\bin\Debug\net5.0\ref\whileExample.dll
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\bin\Debug\net5.0\whileExample.pdb
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.csproj.AssemblyReference.cache
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.AssemblyInfoInputs.cache
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.AssemblyInfo.cs
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.dll
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\ref\whileExample.dll
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.pdb
+C:\Users\Bekir\Desktop\test\whileExample\whileExample\obj\Debug\net5.0\whileExample.genruntimeconfig.cache
